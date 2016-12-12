@@ -1,2 +1,2 @@
 # uri-ocg110.github.io
-Cours site for URI OCG 110: The Ocean Planet
+Course site for URI OCG 110: The Ocean Planet
