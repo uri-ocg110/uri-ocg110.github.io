@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/Clearness\ \(rosa\ edit\).css"> 
+<link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/clearness.css"> 
 
 ### Inverse square law
 $$ \text{Intensity} \propto \frac{1}{\text{distance}^2} $$
