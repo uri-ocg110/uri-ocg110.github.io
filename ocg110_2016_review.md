@@ -8,6 +8,7 @@ So for example, if you go to  Jupiter which orbits at 5 AU, sunlight is 1/25th a
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Inverse_square_law.svg/479px-Inverse_square_law.svg.png" alt="inverse square cartoon" style="width: 250px"/>
 
 ------------------
+
 ### Hadley cells and why the deserts are focused around 30° north and south of the equator
 
 Deserts lie in the so-called Horse Latitudes, where constant high-pressure systems separate the westerlies and trade winds, driving away the rain clouds, swirling above the earth to the music of global temperature variations and the Coriolis effect produced by the earth's rotation in space.
@@ -19,8 +20,8 @@ From [https://faculty.unlv.edu/landau/desertgeography.htm](https://faculty.unlv.
 - Cool air, with a lower saturation point, is capable of holding less moisture within than warm air. (Equatorial air is very moist).  
 - (Oceans cover most of the equator and the high equatorial surface temperature allows large amounts of water to evaporate. So it is not simply warm air that rises at the equator; it is warm, moist air.  
 - As the air cools, it releases the excess moisture it contains, helping to produce the moist tropics.  
- - As the air rises, it cools; the water condenses and precipitation is common. Water returns to the surface as rain.
- - (Deserts do not occur near the Equator, tropics occur there).
+	- As the air rises, it cools; the water condenses and precipitation is common. Water returns to the surface as rain.
+	- (Deserts do not occur near the Equator, tropics occur there).
 - Higher in the atmosphere, the now cold, dry air rises and moves away from the equator.
 - At about 30 degree latitudes in both hemispheres (north and south), the air descends.
 - As it does, it warms.
@@ -34,6 +35,7 @@ From [https://faculty.unlv.edu/landau/desertgeography.htm](https://faculty.unlv.
 
 
 ------------------
+
 ### Coriolis
 
 - Deflects moving objects to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.
@@ -46,6 +48,7 @@ From [https://faculty.unlv.edu/landau/desertgeography.htm](https://faculty.unlv.
 **Q:** Is the above picture representing the Northern or Southern Hemisphere?
 
 ------------------
+
 ## Key quantities to know
 
 * average depth of the ocean
