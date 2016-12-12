@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/clearness.css"> 
+<link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/clearness_macdown.css"> 
 <title>OCG 110 Review Guide</title>
 
 ### Inverse square law
@@ -11,6 +11,15 @@ So for example, if you go to  Jupiter which orbits at 5 AU, sunlight is 1/25th a
 
 <img src="http://petapixel.com/assets/uploads/2016/06/lightfalloffsquare.jpg" alt="nverse square annotated" style="width: 250px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Inverse_square_law.svg/479px-Inverse_square_law.svg.png" alt="inverse square cartoon" style="width: 250px"/>
+
+------------------
+
+### Stars
+
+#### what is luminosity?
+
+- “total amount of energy emitted by a star per unit time... It is related to the brightness, which is the luminosity of an object in a given spectral region”
+- “A red star could be a tiny red dwarf, a star of feeble energy production and a small surface or a bloated giant or even supergiant star such as Antares or Betelgeuse, either of which generates far greater energy but passes it through a surface so large that the star radiates little per unit of surface area.”
 
 ------------------
 
@@ -59,6 +68,14 @@ From [https://faculty.unlv.edu/landau/desertgeography.htm](https://faculty.unlv.
 * average depth of the ocean
 * age of the earth
 * radius of the earth
+* Concentration of 2 main atmospheric constituents
+* Concentration of atmospheric CO2 (pre-industrial revolution and current)
+* Average salinity of the ocean
+* Time scale of large-scale ocean overturning circulation
+* Approx depth/thickness of Earth's interior layers
+* Average thickness of oceanic and continental crust
+* Oldest oceanic and continental crust
+* Years since last "glacial maximum"
 * 
 
 ------------------
