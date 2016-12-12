@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/Clearness\ \(rosa\ edit\).css"> 
+
 ### Inverse square law
 $$ \text{Intensity} \propto \frac{1}{\text{distance}^2} $$
 $$ F_{gravity} = G \frac{m_1 m_2}{r^2} $$
