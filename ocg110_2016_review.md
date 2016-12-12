@@ -1,8 +1,11 @@
 <link rel="stylesheet" type="text/css" href="https://uri-ocg110.github.io/clearness.css"> 
+<title>OCG 110 Review Guide</title>
 
 ### Inverse square law
 $$ \text{Intensity} \propto \frac{1}{\text{distance}^2} $$
 $$ F_{gravity} = G \frac{m_1 m_2}{r^2} $$
+
+<img src="https://uri-ocg110.github.io/inverse_square.png" alt="inverse square" style="width: 150px"/>
 
 So for example, if you go to  Jupiter which orbits at 5 AU, sunlight is 1/25th as intense as on Earth.  If you draw a square on the ground, over the course of 1 minute 25 times more photons will have hit the square on Earth than Jupiter.
 
